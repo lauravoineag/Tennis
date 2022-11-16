@@ -1,0 +1,34 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=08a7b1cf_002D12ad_002D4c4d_002Da49d_002Deef972d33568/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="when_playerOne_gets_four_points_and_playerTwo_gets_three_points_score_is_advantagePlayerOne" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2D54087A-C3F7-410A-A7A8-AED2B952322D::net6.0::TennisScores.Tests.when_playerOne_gets_four_points_and_playerTwo_gets_three_points_score_is_advantagePlayerOne&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=11174c82_002Dd7e0_002D43bf_002D849f_002D9b9a65288d78/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="when_playerOne_gets_two_points_and_playerTwo_gets_four_points_score_is_gamePlayerTwo" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2D54087A-C3F7-410A-A7A8-AED2B952322D::net6.0::TennisScores.Tests.when_playerOne_gets_two_points_and_playerTwo_gets_four_points_score_is_gamePlayerTwo&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6ae6933e_002D2fb5_002D450d_002Dadd5_002D6ddf520c642c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="when_playerOne_gets_four_points_and_playerTwo_gets_three_points_score_is_advantagePlayerOne #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2D54087A-C3F7-410A-A7A8-AED2B952322D::net6.0::TennisScores.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8c8cd0c9_002D3e7d_002D41fe_002Db6f5_002D8e68dbf1a7c2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="when_playerOne_gets_two_points_and_playerTwo_gets_four_points_score_is_gamePlayerTwo #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2D54087A-C3F7-410A-A7A8-AED2B952322D::net6.0::TennisScores.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9c7e81bd_002D6bde_002D44f6_002D82e9_002D6a1c44a00877/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;1D9DB37F-B14F-485B-803B-042A319E1D79/f:TennisScoresTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cf19e85c_002Ddb75_002D4a39_002D83e3_002D1bf001929134/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2D54087A-C3F7-410A-A7A8-AED2B952322D::net6.0::TennisScores.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ecb528d2_002D5920_002D4742_002Daa16_002D25a231c7f39c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="when_playerTwo_gets_one_point_score_is_love_fifteen" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2D54087A-C3F7-410A-A7A8-AED2B952322D::net6.0::TennisScores.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
